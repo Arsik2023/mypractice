@@ -1,0 +1,28 @@
+* {
+    font-family: monospace;
+    background-color: lightpink;
+}
+
+div {
+    font-family: monospace;
+    background-color: lightpink;
+}
+
+li {
+    font-size: 20px;
+}
+
+.image {
+    padding: 0px;
+    border: 20px solid lightblue;
+}
+
+.center {
+    text-align: left;
+}
+
+.text {
+    padding: 0px;
+    border: 10px solid lightblue;
+    background-color: lightblue;
+}
